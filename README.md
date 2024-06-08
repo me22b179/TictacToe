@@ -1,2 +1,2 @@
 # TictacToe
-game
+User Friendly game made using Python
